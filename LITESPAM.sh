@@ -6,7 +6,7 @@ echo "\033[31;1m Tools untuk spam"
 sleep 1
 echo "\033[33;1m Author: S4ufiX21"
 sleep 1
-echo "\033[32;1m Contact Me: https://www.instagram.com/im.brokenheart"
+echo "\033[32;1m Contact Me: 082323213415"
 sleep 1
 echo "\033[34;1m Welcome To My Tools"
 sleep 1
