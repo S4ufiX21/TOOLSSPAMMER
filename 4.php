@@ -3,7 +3,7 @@ include 'bomphd.php';
 /*
     https://github.com/nee48/BomSmsPhD
     Made by Handika Pratama
-    Modified by S4ufiX21
+    Modified by まやちゃん
 */
 $init = new Bom();
 //Eksekusi Sms Boomber
