@@ -1,15 +1,10 @@
 #!/system/xbin/bash
 clear
 toilet -f slant --gay "LiteSpam"
-sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
-sleep 1
 echo "\033[33;1m Author: S4ufiX21"
-sleep 1
 echo "\033[32;1m ?contack: +62821454542377"
-sleep 1
 echo "\033[34;1m ?Selamat Menggunakan"
-sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Tokopedia"
 echo "2. Telkomsel"
