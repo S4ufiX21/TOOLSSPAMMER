@@ -2,7 +2,7 @@
 include 'func.php';
 /*
     https://github.com/nee48/BomTelpSmsTokped
-    Made by Handika Pratama
+    Made by S4ufiX21
 */
 $init = new Bom();
 //Eksekusi Call/Sms Boomber (Limit 100x/Jam)
