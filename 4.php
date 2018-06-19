@@ -2,7 +2,7 @@
 include 'bomphd.php';
 /*
     https://github.com/nee48/BomSmsPhD
-    Made by Handika Pratama
+    Made by S4ufiX21
     Modified by まやちゃん
 */
 $init = new Bom();
